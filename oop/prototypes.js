@@ -36,6 +36,9 @@ john.speak(); // My name is John
 Object.getPrototypeOf(john) == Man.prototype; // true
 
 // кроме того из прототипа этого объекта можно будет узнать, какой функцией-конструктором он был создан
-
 Object.getPrototypeOf(john).constructor == Man; // true
+
+// проверить, создан ли объект неким конструктором можно и так (с учетом цепочки прототипов)
+john instanceof Man; // true
+john instanceof Object; // true
 
