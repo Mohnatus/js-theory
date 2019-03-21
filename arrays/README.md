@@ -2,7 +2,7 @@
 
 ## [Полезные методы](https://github.com/Mohnatus/js-theory/tree/master/arrays)
 
-(отсюда)[https://30secondsofcode.org/#all]
+[отсюда](https://30secondsofcode.org/#all)
 
 * isAllEqual
 * toCSV
