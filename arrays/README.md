@@ -1,4 +1,6 @@
-# Полезные методы массивов
+# Массивы
+
+## [Полезные методы](https://github.com/Mohnatus/js-theory/tree/master/arrays)
 
 (отсюда)[https://30secondsofcode.org/#all]
 
@@ -16,3 +18,15 @@
 * createMatrix
 * fromRange
 * createNDArray
+* maxN
+* minN
+* offset
+* permutations
+* reducedFilter
+* random
+* shuffle
+* sortedIndexFor
+* stableSort
+* unzip
+* xProd
+* zip
